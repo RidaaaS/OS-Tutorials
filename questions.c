@@ -23,15 +23,15 @@ question questions[NUM_QUESTIONS] = {
     
     {"Science", "What is the name of the force that causes objects to fall toward the Earth.", "Gravity?", 300, false},
     {"Geography", "Identify the largest ocean by surface area.", "Pacific Ocean?", 300, false},
-    {"History", "Who was the leader of the Soviet Union during World War II.", "Stalin?", 300, false},
+    {"History", "This Canadian city hosted the 2010 Winter Olympics.", "Vancouver?", 300, false},
     
     {"Science", "The process by which liquid water turns into water vapor.", "Evaporation?", 400, false},
-    {"Geography", "Name the capital city of Brazil.", "Brasilia?", 400, false},
-    {"History", "What year did the American Civil War end.", "1865?", 400, false},
+    {"Geography", "Name the capital of Canada.", "Ottawa?", 400, false},
+    {"History", "This man was the first Prime Minister of Canada.", "John A. Macdonald?", 400, false},
     
     {"Science", "This scientific field studies fossils.", "Paleontology?", 500, false},
-    {"Geography", "What is the largest ocean on Earth.", "Pacific?", 500, false},
-    {"History", "What was the name of the treaty that ended World War I.", "Versailles?", 500, false},
+    {"Geography", "This is the hottest continent on Earth.", "Africa?", 500, false},
+    {"History", "The name of the submarine that imploded while visiting the remains of the Titanic is named the.", "Titan?", 500, false},
 };
 
 // Displays each of the remaining categories and question dollar values that have not been answered
